@@ -1,0 +1,89 @@
+BAG:admin add 1xXe tăng Santa lydo: Lấy từ body vào hành trang at 07/17/2024 9:20 PM
+BAG:admin add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 07/17/2024 9:26 PM
+BAG:admin add 1xGeningan lydo:  at 07/17/2024 10:36 PM
+BAG:admin add 1xKakarot MUI lydo: Mua từ cửa hàng at 07/17/2024 10:38 PM
+BAG:admin add 1xCT Lý Tiểu Nương Bikini lydo: item at 07/17/2024 10:50 PM
+BAG:admin add 1xQuả xoài lydo: Nhặt từ map at 07/17/2024 10:51 PM
+BAG:admin add 1xObito lydo: item at 07/17/2024 10:51 PM
+BAG:admin add 1xCải trang Thần tài lydo: item at 07/17/2024 10:54 PM
+BAG:admin add 3514xThỏi vàng (old: 3500) lydo:  at 07/17/2024 11:12 PM
+BAG:admin add 10xPhiếu giảm giá VIP lydo:  at 07/17/2024 11:12 PM
+BAG:admin add 10xTàu ngầm 19 Cam lydo:  at 07/17/2024 11:12 PM
+BAG:admin add 1xCT Goku SSJ4 lydo:  at 07/17/2024 11:12 PM
+BAG:admin add 1xPet Godzilla lydo:  at 07/17/2024 11:12 PM
+BAG:admin add 1xThanh Long Yển Nguyệt đao lydo:  at 07/17/2024 11:12 PM
+BAG:admin add 5xĐá bảo vệ lydo:  at 07/17/2024 11:12 PM
+BAG:admin add 10xCuốn sách cũ lydo:  at 07/17/2024 11:12 PM
+BAG:admin add 1xKìm bấm giấy lydo: Buy item spec at 07/17/2024 11:13 PM
+BAG:admin add 1xDùi đục lydo: Buy item spec at 07/17/2024 11:13 PM
+BAG:admin add 1xRương ngọc rồng lydo: Mua từ cửa hàng at 07/17/2024 11:13 PM
+BAG:admin add 9901xKìm bấm giấy lydo: item at 07/17/2024 11:14 PM
+BAG:admin add 99xKìm bấm giấy (old: 1) lydo: item at 07/17/2024 11:14 PM
+BAG:admin add 1xSách tuyệt kỹ 1 lydo:  at 07/17/2024 11:14 PM
+BAG:admin add 3542xThỏi vàng (old: 3514) lydo:  at 07/17/2024 11:21 PM
+BAG:admin add 20xPhiếu giảm giá VIP (old: 10) lydo:  at 07/17/2024 11:21 PM
+BAG:admin add 5xMảnh Đội trưởng Vàng lydo:  at 07/17/2024 11:21 PM
+BAG:admin add 1xTàu ngầm 19 Vàng lydo:  at 07/17/2024 11:21 PM
+BAG:admin add 1xCT Goku SSJ4 lydo:  at 07/17/2024 11:21 PM
+BAG:admin add 1xPet Kong lydo:  at 07/17/2024 11:21 PM
+BAG:admin add 1xCT Hắc Mị Nương lydo:  at 07/17/2024 11:21 PM
+BAG:admin add 1xThanh Long Yển Nguyệt đao lydo:  at 07/17/2024 11:21 PM
+BAG:admin add 15xĐá bảo vệ (old: 5) lydo:  at 07/17/2024 11:21 PM
+BAG:admin add 5xCuốn sách cũ lydo:  at 07/17/2024 11:21 PM
+BAG:admin add 99xCuốn sách cũ (old: 89) lydo:  at 07/17/2024 11:21 PM
+BAG:admin add 3597xThỏi vàng (old: 3542) lydo:  at 07/17/2024 11:22 PM
+BAG:admin add 10xPhiếu giảm giá VIP lydo:  at 07/17/2024 11:22 PM
+BAG:admin add 10xMảnh Rồng thần Namếc lydo:  at 07/17/2024 11:22 PM
+BAG:admin add 1xPet Godzilla lydo:  at 07/17/2024 11:22 PM
+BAG:admin add 1xPet Kong lydo:  at 07/17/2024 11:22 PM
+BAG:admin add 1xCT Goku SSJ4 lydo:  at 07/17/2024 11:22 PM
+BAG:admin add 1xCT Hắc Mị Nương lydo:  at 07/17/2024 11:22 PM
+BAG:admin add 1xCải trang Mị Nương lydo:  at 07/17/2024 11:22 PM
+BAG:admin add 1xKakarot MUI lydo:  at 07/17/2024 11:22 PM
+BAG:admin add 1xKakarot MUI lydo:  at 07/17/2024 11:22 PM
+BAG:admin add 1xKakarot MUI lydo:  at 07/17/2024 11:22 PM
+BAG:admin add 45xĐá bảo vệ (old: 15) lydo:  at 07/17/2024 11:22 PM
+BAG:admin add 30xCuốn sách cũ lydo:  at 07/17/2024 11:22 PM
+BAG:admin add 1xSách tuyệt kỹ 1 lydo: Lấy từ body vào hành trang at 07/17/2024 11:24 PM
+BAG:admin add 1xSách tuyệt kỹ 2 lydo:  at 07/17/2024 11:25 PM
+BAG:admin add 1xĐá Ruby lydo: Nhặt từ map at 07/17/2024 11:32 PM
+BAG:admin add 1xThánh đập đồ +10 lydo: item at 07/17/2024 11:34 PM
+BAG:admin add 1xCao thủ siêu hạng lydo: item at 07/17/2024 11:34 PM
+BAG:admin add 1xTrùm săn boss lydo: item at 07/17/2024 11:35 PM
+BAG:admin add 1xGiày vàng Zealot lydo: Nhặt từ map at 07/17/2024 11:39 PM
+BAG:admin add 1xDây pháo lydo: Nhặt từ map at 07/17/2024 11:39 PM
+BAG:admin add 1xSách Dịch Chuyển lv1 lydo: Mua từ cửa hàng at 07/17/2024 11:41 PM
+BAG:admin add 1xSách Kamejoko lv2 lydo: Mua từ cửa hàng at 07/17/2024 11:41 PM
+BAG:admin add 1xSách Thôi Miên lv1 lydo: Mua từ cửa hàng at 07/17/2024 11:41 PM
+BAG:admin add 1xThái Dương Hạ San lv1 lydo: Mua từ cửa hàng at 07/17/2024 11:41 PM
+BAG:admin add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 07/17/2024 11:41 PM
+BAG:admin add 1xSách Kamejoko lv1 lydo: Mua từ cửa hàng at 07/17/2024 11:42 PM
+BAG:admin add 1xKaioken lv1 lydo: Mua từ cửa hàng at 07/17/2024 11:42 PM
+BAG:admin add 1xQuả cầu Kênh Khi lv1 lydo: Mua từ cửa hàng at 07/17/2024 11:42 PM
+BAG:admin add 1xÁo jean Calic lydo: Nhặt từ map at 07/17/2024 11:45 PM
+BAG:admin add 2xDây pháo (old: 1) lydo: Nhặt từ map at 07/17/2024 11:45 PM
+BAG:admin add 1xQuả xoài lydo: Nhặt từ map at 07/17/2024 11:46 PM
+BAG:admin add 1xThúng nếp lydo: Nhặt từ map at 07/17/2024 11:51 PM
+BAG:admin add 1xÁo Hủy Diệt lydo: Buy item spec at 07/17/2024 11:52 PM
+BAG:admin add 1xThúng đậu xanh lydo: Nhặt từ map at 07/17/2024 11:53 PM
+BAG:admin add 2xThúng đậu xanh (old: 1) lydo: Nhặt từ map at 07/17/2024 11:53 PM
+BAG:admin add 1xThịt heo lydo: Nhặt từ map at 07/17/2024 11:54 PM
+BAG:admin add 1xMãng cầu lydo: Nhặt từ map at 07/17/2024 11:54 PM
+BAG:admin add 2xMãng cầu (old: 1) lydo: Nhặt từ map at 07/17/2024 11:55 PM
+BAG:admin add 1xTrái sung lydo: Nhặt từ map at 07/17/2024 11:55 PM
+BAG:admin add 1xĐu đủ lydo: Nhặt từ map at 07/17/2024 11:55 PM
+BAG:admin add 1xMì ly lydo: Nhặt từ map at 07/17/2024 11:55 PM
+BAG:admin add 9901xMì ly lydo: item at 07/17/2024 11:55 PM
+BAG:admin add 99xMì ly (old: 1) lydo: item at 07/17/2024 11:55 PM
+BAG:admin add 1xQuần Hủy Diệt lydo: Buy item spec at 07/17/2024 11:57 PM
+BAG:admin add 99xMì ly lydo: item at 07/17/2024 11:57 PM
+BAG:admin add 1xNhẫn Hủy Diệt lydo: Buy item spec at 07/17/2024 11:57 PM
+BAG:admin add 99xMì ly lydo: item at 07/17/2024 11:57 PM
+BAG:admin add 99xSushi lydo: item at 07/17/2024 11:57 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Buy item spec at 07/17/2024 11:57 PM
+BAG:admin add 1xGiầy Hủy Diệt lydo: Buy item spec at 07/17/2024 11:57 PM
+BAG:admin add 99xMì ly lydo: item at 07/17/2024 11:57 PM
+BAG:admin add 99xMì ly lydo: item at 07/17/2024 11:58 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Buy item spec at 07/17/2024 11:58 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Buy item spec at 07/17/2024 11:58 PM
+BAG:admin add 903527xThỏi vàng (old: 3527) lydo:  at 07/17/2024 11:59 PM

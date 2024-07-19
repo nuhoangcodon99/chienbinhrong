@@ -1,0 +1,219 @@
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\Source\bin\Debug\net8.0\Chiến Binh Rồng.exe
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\Source\debug\Debug\net8.0\Chiến Binh Rồng.exe
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\Source\debug\Debug\net8.0\Chiến Binh Rồng.deps.json
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\Source\debug\Debug\net8.0\Chiến Binh Rồng.runtimeconfig.json
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\Source\debug\Debug\net8.0\Chiến Binh Rồng.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\Source\debug\Debug\net8.0\Chiến Binh Rồng.pdb
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\Source\bin\Debug\net8.0\Chiến Binh Rồng.deps.json
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\Source\bin\Debug\net8.0\Chiến Binh Rồng.runtimeconfig.json
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\Source\bin\Debug\net8.0\Chiến Binh Rồng.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\Source\bin\Debug\net8.0\Chiến Binh Rồng.pdb
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Chiến Binh Rồng.exe
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Chiến Binh Rồng.deps.json
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Chiến Binh Rồng.runtimeconfig.json
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Chiến Binh Rồng.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Chiến Binh Rồng.pdb
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Figgle.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Linq.Extras.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Microsoft.Owin.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Microsoft.Owin.Diagnostics.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Microsoft.Owin.Hosting.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Microsoft.Owin.Security.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\MySql.Data.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Ubiety.Dns.Core.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\ZstdNet.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Owin.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Serilog.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Serilog.Enrichers.Thread.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\System.Resources.Extensions.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\runtimes\win\lib\net7.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Chiến Binh Rồng.exe
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Chiến Binh Rồng.deps.json
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Chiến Binh Rồng.runtimeconfig.json
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Chiến Binh Rồng.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Chiến Binh Rồng.pdb
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Figgle.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Linq.Extras.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Microsoft.Owin.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Microsoft.Owin.Diagnostics.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Microsoft.Owin.Hosting.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Microsoft.Owin.Security.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\MySql.Data.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Ubiety.Dns.Core.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\ZstdNet.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Owin.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Serilog.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Serilog.Enrichers.Thread.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\System.Resources.Extensions.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\runtimes\win\lib\net7.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\New folder (2)\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\obj\Debug\net8.0\Chiến Binh Rồng.csproj.AssemblyReference.cache
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\obj\Debug\net8.0\Chiến Binh Rồng.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\obj\Debug\net8.0\Chiến Binh Rồng.AssemblyInfoInputs.cache
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\obj\Debug\net8.0\Chiến Binh Rồng.AssemblyInfo.cs
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\obj\Debug\net8.0\Chiến Binh Rồng.csproj.CoreCompileInputs.cache
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Chiến Binh Rồng.exe
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Chiến Binh Rồng.deps.json
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Chiến Binh Rồng.runtimeconfig.json
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Chiến Binh Rồng.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Chiến Binh Rồng.pdb
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Figgle.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Linq.Extras.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Microsoft.Owin.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Microsoft.Owin.Diagnostics.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Microsoft.Owin.Hosting.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Microsoft.Owin.Security.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Ubiety.Dns.Core.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\ZstdNet.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Owin.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Serilog.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Serilog.Enrichers.Thread.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\System.Resources.Extensions.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\obj\Debug\net8.0\Chiến Binh Rồng.csproj.CopyComplete
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\obj\Debug\net8.0\Chiến Binh Rồng.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\obj\Debug\net8.0\refint\Chiến Binh Rồng.dll
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\obj\Debug\net8.0\Chiến Binh Rồng.pdb
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\obj\Debug\net8.0\Chiến Binh Rồng.genruntimeconfig.cache
+C:\Users\Huynh Gia Computer\Downloads\Chiến Binh Rồng\Chiến Binh Rồng\ServerRun\obj\Debug\net8.0\ref\Chiến Binh Rồng.dll
+C:\Users\Administrator\Downloads\ServerRun\ServerRun\bin\Debug\net8.0\Chiến Binh Rồng.exe
+C:\Users\Administrator\Downloads\ServerRun\ServerRun\bin\Debug\net8.0\Chiến Binh Rồng.deps.json
+C:\Users\Administrator\Downloads\ServerRun\ServerRun\bin\Debug\net8.0\Chiến Binh Rồng.runtimeconfig.json
+C:\Users\Administrator\Downloads\ServerRun\ServerRun\bin\Debug\net8.0\Chiến Binh Rồng.dll
+C:\Users\Administrator\Downloads\ServerRun\ServerRun\bin\Debug\net8.0\Chiến Binh Rồng.pdb
+C:\Users\Administrator\Downloads\ServerRun\ServerRun\obj\Debug\net8.0\Chiến Binh Rồng.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\ServerRun\ServerRun\obj\Debug\net8.0\Chiến Binh Rồng.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\ServerRun\ServerRun\obj\Debug\net8.0\Chiến Binh Rồng.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\ServerRun\ServerRun\obj\Debug\net8.0\Chiến Binh Rồng.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\ServerRun\ServerRun\obj\Debug\net8.0\Chiến Binh Rồng.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\ServerRun\ServerRun\obj\Debug\net8.0\Chiến Bi.8A46D38A.Up2Date
+C:\Users\Administrator\Downloads\ServerRun\ServerRun\obj\Debug\net8.0\Chiến Binh Rồng.dll
+C:\Users\Administrator\Downloads\ServerRun\ServerRun\obj\Debug\net8.0\refint\Chiến Binh Rồng.dll
+C:\Users\Administrator\Downloads\ServerRun\ServerRun\obj\Debug\net8.0\Chiến Binh Rồng.pdb
+C:\Users\Administrator\Downloads\ServerRun\ServerRun\obj\Debug\net8.0\Chiến Binh Rồng.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\ServerRun\ServerRun\obj\Debug\net8.0\ref\Chiến Binh Rồng.dll
+c:\Users\Admin\Desktop\nro1\nro1\obj\Debug\net8.0\Chiến Binh Rồng.csproj.AssemblyReference.cache
+c:\Users\Admin\Desktop\nro1\nro1\obj\Debug\net8.0\Chiến Binh Rồng.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Admin\Desktop\nro1\nro1\obj\Debug\net8.0\Chiến Binh Rồng.AssemblyInfoInputs.cache
+c:\Users\Admin\Desktop\nro1\nro1\obj\Debug\net8.0\Chiến Binh Rồng.AssemblyInfo.cs
+c:\Users\Admin\Desktop\nro1\nro1\obj\Debug\net8.0\Chiến Binh Rồng.csproj.CoreCompileInputs.cache
+c:\Users\Admin\Desktop\nro1\nro1\obj\Debug\net8.0\Chiến Bi.8A46D38A.Up2Date
+c:\Users\Admin\Desktop\nro1\nro1\obj\Debug\net8.0\Chiến Binh Rồng.dll
+c:\Users\Admin\Desktop\nro1\nro1\obj\Debug\net8.0\refint\Chiến Binh Rồng.dll
+c:\Users\Admin\Desktop\nro1\nro1\obj\Debug\net8.0\Chiến Binh Rồng.pdb
+c:\Users\Admin\Desktop\nro1\nro1\obj\Debug\net8.0\Chiến Binh Rồng.genruntimeconfig.cache
+c:\Users\Admin\Desktop\nro1\nro1\obj\Debug\net8.0\ref\Chiến Binh Rồng.dll

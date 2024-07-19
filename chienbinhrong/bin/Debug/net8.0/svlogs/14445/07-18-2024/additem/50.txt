@@ -1,0 +1,21 @@
+BAG:admin add 1xÁo Hủy Diệt lydo: Lấy từ body vào hành trang at 07/18/2024 12:00 AM
+BAG:admin add 1xQuần Hủy Diệt lydo: Lấy từ body vào hành trang at 07/18/2024 12:01 AM
+BAG:admin add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 07/18/2024 12:01 AM
+BAG:admin add 1xGiầy Hủy Diệt lydo: Lấy từ body vào hành trang at 07/18/2024 12:01 AM
+BAG:admin add 1xNhẫn Hủy Diệt lydo: Lấy từ body vào hành trang at 07/18/2024 12:01 AM
+BAG:admin add 1xNgọc Rồng 1 sao lydo: item at 07/18/2024 12:03 AM
+BAG:admin add 999xNgọc Rồng 3 sao lydo: item at 07/18/2024 12:03 AM
+BAG:admin add 1xÁo Hủy Diệt lydo: Lấy từ body vào hành trang at 07/18/2024 12:08 AM
+BAG:admin add 1xHộp bánh Trung Thu lydo: Buy item spec at 07/18/2024 12:12 AM
+BAG:admin add 1xPet Godzilla lydo: Lấy từ body vào hành trang at 07/18/2024 12:14 AM
+BAG:admin add 1xObito lydo: Lấy từ body vào hành trang at 07/18/2024 12:14 AM
+BAG:admin add 1xBình chứa Commeson lydo: Nhặt từ map at 07/18/2024 12:15 AM
+BAG:admin add 2xBình chứa Commeson (old: 1) lydo: Nhặt từ map at 07/18/2024 12:15 AM
+BAG:admin add 1xBình chứa Commeson lydo: Nhặt từ map at 07/18/2024 12:16 AM
+BAG:admin add 1xÁo Hủy Diệt lydo: item at 07/18/2024 12:17 AM
+BAG:admin add 1xÁo Hủy Diệt lydo: Lấy từ body vào hành trang at 07/18/2024 12:17 AM
+BAG:admin add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 07/18/2024 12:20 AM
+BAG:admin add 1xMãng cầu lydo: Nhặt từ map at 07/18/2024 12:21 AM
+BAG:admin add 1xBí kíp tuyệt kỹ lydo: item at 07/18/2024 12:28 AM
+BAG:admin add 10000xBí kíp tuyệt kỹ (old: 1) lydo: item at 07/18/2024 12:28 AM
+BAG:admin add 1xÁo Hủy Diệt lydo: Lấy từ body vào hành trang at 07/18/2024 12:29 AM

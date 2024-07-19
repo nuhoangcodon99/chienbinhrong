@@ -1,0 +1,4 @@
+TRUNCATE TABLE `shop kí gửi`
+insert into `shop kí gửi` (`item_id`, `player_id`, `tab`, `page`,`id`, `buyType`, `Cost`, `quantity`, `itemOptions`, `isUpTop`, `isBuy`, `NamePlayer`) values ('1', '50', '0', '0','273', '0', '2000', '1', '[{"Id":7,"Param":28250},{"Id":28,"Param":3200},{"Id":86,"Param":0},{"Id":207,"Param":13}]', '0', 'False', 'admin');
+insert into `shop kí gửi` (`item_id`, `player_id`, `tab`, `page`,`id`, `buyType`, `Cost`, `quantity`, `itemOptions`, `isUpTop`, `isBuy`, `NamePlayer`) values ('2', '50', '0', '0','233', '1', '2000', '1', '[{"Id":47,"Param":404},{"Id":107,"Param":1},{"Id":87,"Param":0},{"Id":207,"Param":1}]', '0', 'False', 'admin');
+insert into `shop kí gửi` (`item_id`, `player_id`, `tab`, `page`,`id`, `buyType`, `Cost`, `quantity`, `itemOptions`, `isUpTop`, `isBuy`, `NamePlayer`) values ('3', '50', '1', '0','1068', '0', '50', '800', '[{"Id":73,"Param":0}]', '0', 'False', 'admin');

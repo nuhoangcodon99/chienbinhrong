@@ -1,0 +1,69 @@
+RewriteEngine on
+RewriteBase /
+
+# Chuyển hướng
+RewriteRule ^home$ /index.php [L]
+RewriteRule ^forum$ /pages/bai-viet.php [L]
+RewriteRule ^post$ /pages/dang-bai.php [L]
+
+#Tài khoản
+RewriteRule ^gold$ /pages/doi-ngoc-xanh.php [L]
+RewriteRule ^changepass$ /pages/doi-mat-khau.php [L]
+RewriteRule ^history$ /pages/history.php [L]
+RewriteRule ^update$ /pages/cap-nhat-thong-tin.php [L]
+RewriteRule ^card$ /pages/nap-so-du.php [L]
+RewriteRule ^banking$ /pages/nap-mbbank.php [L]
+RewriteRule ^points$ /pages/tich-luy.php [L]
+RewriteRule ^security$ /pages/pass2.php [L]
+RewriteRule ^logout$ /pages/logout.php [L]
+RewriteRule ^coin$ /pages/doi-tien.php [L]
+
+#Download
+RewriteRule ^android$ /Download/android [L]
+RewriteRule ^iphone$ /Download/iphone [L]
+RewriteRule ^windows$ /Download/windows [L]
+RewriteRule ^jar$ /Download/jar [L]
+
+#Xếp hạng
+RewriteRule ^power$ /pages/rank/bang-xep-hang.php [L]
+RewriteRule ^donate$ /pages/rank/top-nap.php [L]
+
+#API
+RewriteRule ^post-card$ /Request/ajax/card.php [L]
+RewriteRule ^mbbank/cron$ /Request/banking/mbbank [L]
+RewriteRule ^mbbank/login$ /Request/banking/login [L]
+RewriteRule ^mbbank/api$ /Request/banking/api [L]
+RewriteRule ^Request/bank$ /Request/cauhinh/api-nap.php [L]
+RewriteRule ^Request/changepass$ /Request/cauhinh/api-changepass.php [L]
+RewriteRule ^Request/info$ /Request/cauhinh/api-thongtin.php [L]
+RewriteRule ^Request/security$ /Request/cauhinh/delete_pass2.php [L]
+RewriteRule ^Request/post$ /Request/cauhinh/post [L]
+
+#CPanel
+RewriteRule ^Request/thong-tin$ /Request/cauhinh/api-thongtin [L]
+
+# Chuyển yêu cầu không phải là tập tin hoặc thư mục đến file có .php theo đường dẫn gốc
+RewriteCond %{Request_FILENAME} !-f
+RewriteCond %{Request_FILENAME} !-d
+RewriteRule ^(.*)$ $1.php [L,QSA]
+
+# Chuyển hướng đến trang error.php khi file không tồn tại
+RewriteCond %{Request_FILENAME} !-f
+RewriteCond %{Request_FILENAME} !-d
+RewriteRule ^(.*)$ error.php [L]
+
+# Chặn truy cập vào thư mục
+Options -Indexes
+
+# Thêm .IPA vào trang
+AddType application/octet-stream .ipa
+
+# Bảo vệ tệp tin htaccess
+<Files .htaccess>
+    order allow,deny
+    deny from all
+</Files>
+
+<FilesMatch "\.(jpg|jpeg|png|gif|svg|css|js)$">
+    Header set Cache-Control "max-age=31536000"
+</FilesMatch>

@@ -1,0 +1,89 @@
+﻿{
+  "os": 1,
+  "server": {
+    "link": "Nro:13.229.128.205:14445:0,0,0",
+    "host": "13.229.128.205",
+    "port": 14445,
+    "debug": false,
+    "max-players": 6000,
+    "drop-all-item": true,
+    "download-server": true,
+    "play-server": true,
+    "dev-server": false,
+    "vip-server": false,
+    "event-trungthu": false,
+"event-vulan": true,
+	"event-noel":true,
+	"event-worldcup":false,
+	"event-he": false,
+    "cache": {
+      "isDir": false,
+      "nr_dart": "RES/cache/data/NR_dart",
+      "nr_arrow": "RES/cache/data/NR_arrow",
+      "nr_effect": "RES/cache/data/NR_effect",
+      "nr_image": "RES/cache/data/NR_image",
+      "nr_part": "RES/cache/data/NR_part",
+      "nr_skill": "RES/cache/data/NR_skill",
+      "nrskill": "RES/cache/data/NRskill",
+      "nrmap": "RES/cache/data/NRmap"
+    },
+    "resource": {
+      "map": "RES/map/Data/map_{0}",
+      "monster": "RES/monster/x{0}/All/{1}",
+      "tile": "RES/cache/tile_set",
+      "new-bg": "RES/cache/mess/mess_newBG",
+      "download": "RES/downloading/x{0}",
+      "background": "RES/background/x{0}/ImgBG_{1}.png",
+      "icon": "RES/icon/x{0}/{1}.png",
+      "mount": "RES/mount/x{0}/{1}.png",
+      "effect": {
+       "data": "RES/Effect/x{0}/Data/DataEffect_{1}_{2}",
+        "image": "RES/Effect/x{0}/Image/ImageEffect_{1}_{2}.png"
+      }
+    }
+  },
+  "database": {
+    "mysql": {
+      "host": "127.0.0.1",
+      "port": 3306,
+      "user": "root",
+      "password": "",
+      "database": {
+        "data": "nro_data",
+        "account": "nro_acc"
+      }
+    }
+  },
+  "socket": {
+    "max-connect": 6000
+  },
+  "percent":{
+	  "Đồ Thần Linh": 15,
+	  "Đồ Kích Hoạt": 15,
+	  "Ngọc Rồng": 15,
+	  "Sao Pha Lê": 15,
+	  "Đá Nâng Cấp": 15,
+	  "Thức Ăn": 15,
+	  "Mảnh Thiên Sứ": 15,
+	  "Truyện Doremon": 15,
+	  "Đùi Gà": 15,
+	  "Ngọc rồng 7 sao nhiệm vụ": 15
+  },
+   "exp-up": 5,
+  "rate-thoivang": 2,
+  "thoivang-to-huvang":150,
+  "huvang-to-thoivang": 100,
+    "rate-hongngoc": 4,
+"muagiai": 7,
+  "limit-power-exp-up": 80000000000,
+  "item-old": 800,
+  "item-new": 1050,
+  "version": {
+    "download": 5880861,
+    "data": 64,
+    "map": 29,
+    "skill": 5,
+    "item": 117,
+    "event": 1
+  }
+}
